@@ -1,0 +1,33 @@
+_repo: The-Two-Story-Mittens-and-the-Little-Play-Mittens--13-Being-the-Fourth-Book-of-the-Series_29811
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29811-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fanny, Aunt
+    aliases:
+    - Mease, Frances Elizabeth
+    - Aunt Fanny
+    - Barrow, Frances Elizabeth
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '33364'
+    url: http://www.gutenberg.org/2009/agents/33364
+description: ''
+gutenberg_issued: '2009-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: More about the mittens -- The party Lillie gave for Miss Florence
+  -- The fairy Benevolence -- Master Edward's trial -- The little play mittens.
+title: "The Two Story Mittens and the Little Play Mittens\r\nBeing the Fourth Book\
+  \ of the Series"
+url: http://www.gutenberg.org/ebooks/29811
